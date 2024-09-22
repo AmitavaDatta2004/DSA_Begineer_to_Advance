@@ -3,3 +3,4 @@
 2. Area of square
 3. Min of two numbers 
 4. Odd or even
+5. Sum of number from 1 to n
