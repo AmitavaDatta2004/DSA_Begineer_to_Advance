@@ -4,3 +4,4 @@
 3. Min of two numbers 
 4. Odd or even
 5. Sum of number from 1 to n
+6. Is prime or not
