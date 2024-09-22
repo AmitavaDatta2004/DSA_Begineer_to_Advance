@@ -45,6 +45,8 @@ This pseudocode checks if a number is even or odd without worrying about the spe
 
 ---
 
+## Practice codes
+
 1. Sum of two numbers
 2. Area of square
 3. Min of two numbers 
